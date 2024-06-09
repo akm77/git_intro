@@ -1,11 +1,7 @@
-class tesT:
+class TestClass:
     pass
 
 
-
-
-def TestFucrion():
-    pass
 
 
 

@@ -1,2 +1,2 @@
-class test:
+class tesT:
     pass

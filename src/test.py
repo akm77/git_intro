@@ -1,4 +1,4 @@
-class TestClass:
+class testClass:
     pass
 
 

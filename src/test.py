@@ -1,16 +1,5 @@
 class testClass:
     pass
 
-class yeTAnother:
-    ...
 
-
-
-
-
-
-
-
-
-
-
+class yeTAnother: ...

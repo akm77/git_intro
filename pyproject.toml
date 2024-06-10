@@ -15,4 +15,4 @@ requires = ["poetry-core"]
 build-backend = "poetry.core.masonry.api"
 
 [tool.ruff.lint]
-select = ["N", "COM", "A", "B", "BLE001", "C4", "T10", "T20", "PT", "Q",]
+select = ["F", "N", "COM", "A", "B", "BLE001", "C4", "T10", "T20", "PT", "Q","C90", "I", "E", "W"]

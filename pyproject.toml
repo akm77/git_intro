@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "git-intro"
+version = "0.1.0"
+description = "Workou git"
+authors = ["akm77 <aleksey.kotryakhov@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+ruff = "^0.4.8"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
+
+[tool.ruff.lint]
+select = ["N", "COM", "A", "B", "BLE001", "C4", "T10", "T20", "PT", "Q",]
